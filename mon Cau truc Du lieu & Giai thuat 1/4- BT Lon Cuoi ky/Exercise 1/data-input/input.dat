@@ -1,0 +1,14 @@
+51503207, 504070, 1503013
+#SinhVien	51003133, Duong Huu Phuc, M
+#SinhVien	51503116, Nguyen Hong Thuan, M
+#SinhVien	51503207, Duong Thi Trang, F
+#GiangVien	1503013, John Smith, M
+#GiangVien	1701245, Archer Alexander, M
+#GiangVien	2331542, Jennifer Aniston, F
+#svTKB	51503116, 504070
+#svTKB	51503116, 501045
+#svTKB	51503207, 504070
+#gvTKB	1503013, 504070
+#gvTKB	2331542, 501045
+#MonHoc	504070, SOA, 3
+#MonHoc	501045, DSA1, 4

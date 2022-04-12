@@ -1,0 +1,1 @@
+set JAVA="C:\Program Files\Java\jdk-16.0.2\bin"
